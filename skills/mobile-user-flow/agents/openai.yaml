@@ -1,0 +1,8 @@
+interface:
+  display_name: "모바일 유저 플로우"
+  short_description: "모바일 웹앱의 핵심 동선과 상태 흐름을 설계합니다"
+  default_prompt: "Use $mobile-user-flow to design a clear mobile web app user flow for my product."
+
+policy:
+  allow_implicit_invocation: true
+
