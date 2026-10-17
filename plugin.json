@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mobile-user-flow",
+  "version": "1.0.0",
+  "description": "Design and implement reusable mobile web app user flows."
+}
+
